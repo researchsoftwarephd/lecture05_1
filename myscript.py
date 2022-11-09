@@ -3,3 +3,4 @@ def square(x):
 
 print(square(3))
 print("bye")
+print("Adeus")
